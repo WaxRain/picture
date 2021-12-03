@@ -1,0 +1,27 @@
+header, nav, footer, article{
+    border: solid 1px;
+    padding: 6px;
+    margin: 4px;
+}
+header{
+    width: 500px;
+}
+nav{
+    float: left;
+    width: 60px;
+    height: 100px;
+}
+article{
+    float: left;
+    width: 400px;
+    height: 100px;
+}
+footer{
+    clear: both;
+    width: 500px;
+}
+#myCanvas{
+    background-color: red;
+    width: 200px;
+    height: 100px;
+}
